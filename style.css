@@ -1,0 +1,10 @@
+body {
+}
+
+#canvas1 {
+    background: url("public/bg1.png");
+}
+
+.hidden {
+    display: none;
+}
